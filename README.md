@@ -22,6 +22,8 @@
   - [ ] Lets you set who can watch the match
 - [ ] Game activity
   - [ ] Lets you make your move
+  - [ ] Shows you the last move made
+  - [ ] Shows you whose turn it is
   - [ ] Displays valid moves when you click on a piece
   - [ ] Allows you to resign
   - [ ] Allows you to ask for draw
